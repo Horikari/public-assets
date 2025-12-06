@@ -7,7 +7,7 @@ This repository contains publicly accessible documents, diagrams, and assets sha
 This PDF illustrates the ecosystem of open-source tools commonly used in modern hardware and software engineering workflows — including electronics design, mechanical CAD, CNC/3D printing, firmware development, documentation, automation, and project management.
 
 **Direct PDF Link:**  
-[Download the PDF](Opensource_tools_en.pdf)
+[Download the PDF](Opensource tools_en.pdf)
 
 Feel free to share or reference the document anywhere.
 
